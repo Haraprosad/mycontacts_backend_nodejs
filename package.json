@@ -1,0 +1,16 @@
+{
+  "name": "mycontacts_backend_nodejs",
+  "version": "1.0.0",
+  "description": "It will cover all basic concepts of node js for backend development.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Haraprosad Biswas",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
